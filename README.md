@@ -13,7 +13,3 @@ e. Route pakai React Router Dom
 3. Setelah selesai, buat database baru misal namanya **cafetaria**. Lalu import file yang ada di folder **backend/sql/cafetaria.sql**.
 4. Buka terminal kembali dan arahkan ke folder frontend, ketik **npm start**. Lalu arahkan lagi ke folder backend, kemudian ketik **php spark serve**.
 5. Selesai, aplikasi jalan di server lokal.
-
-# Konfigurasi
-Untuk deploy ke online server/hosting, ada beberapa file yang harus dikonfigurasi terlebih dahulu.
-**Frontend**
