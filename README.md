@@ -10,8 +10,8 @@ e. Route pakai React Router Dom
 # Install
 1. Download semua file di atas (frontend dan backend) kemudian pindahkan ke dalam 1 folder, misal nama foldernya **Cafetaria**.
 2. Buka terminal, arahkan ke folder frontend. kemudian ketik **npm install**.
-3. Setelah selesai, ketik **npm start**.
-4. Arahkan ke folder backend, kemudian ketik **php spark serve**.
+3. Setelah selesai, buat database baru misal namanya **cafetaria**. Lalu import file yang ada di folder **backend/sql/cafetaria.sql**.
+4. Buka terminal kembali dan arahkan ke folder frontend, ketik **npm start**. Lalu arahkan lagi ke folder backend, kemudian ketik **php spark serve**.
 5. Selesai, aplikasi jalan di server lokal.
 
 # Konfigurasi
