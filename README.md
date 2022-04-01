@@ -7,6 +7,13 @@ c. CSS Framework pakai React Bootstrap <br/>
 d. Chart pakai React Chart Js 2 <br/>
 e. Route pakai React Router Dom
 
-# Konfigurasi
-
 # Install
+1. Download semua file di atas (frontend dan backend) kemudian pindahkan ke dalam 1 folder, misal nama foldernya **Cafetaria**.
+2. Buka terminal, arahkan ke folder frontend. kemudian ketik **npm install**.
+3. Setelah selesai, ketik **npm start**.
+4. Arahkan ke folder backend, kemudian ketik **php spark serve**.
+5. Selesai, aplikasi jalan di server lokal.
+
+# Konfigurasi
+Untuk deploy ke online server/hosting, ada beberapa file yang harus dikonfigurasi terlebih dahulu.
+**Frontend**
